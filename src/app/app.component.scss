@@ -15,12 +15,14 @@
       height: 60px;
 
       a {
+        color: white;
+        border-color: white;
         font-size: 14px;
         font-weight: 500;
         margin-top: auto;
         margin-bottom: auto;
 
-        &.mat-stroked-button {
+        &.mat-mdc-outlined-button {
           margin-left: auto;
         }
       }
