@@ -10,16 +10,13 @@
     "moduleResolution": "node",
     "experimentalDecorators": true,
     "importHelpers": true,
-    "target": "es2020",
-
+    "target": "ES2022",
     "noImplicitThis": true,
     "noImplicitAny": true,
     "alwaysStrict": true,
-
     "forceConsistentCasingInFileNames": true,
     "noUnusedLocals": true,
     "noImplicitReturns": true,
-
     "typeRoots": [
       "node_modules/@types"
     ],
@@ -34,6 +31,7 @@
       "angular-token/*": [
         "dist/angular-token/*"
       ]
-    }
+    },
+    "useDefineForClassFields": false
   }
 }
