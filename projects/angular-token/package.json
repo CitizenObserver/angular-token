@@ -1,6 +1,6 @@
 {
   "name": "@mrvvoo/angular-token",
-  "version": "15.0.0-beta.0",
+  "version": "16.0.0-beta.0",
   "repository": "https://github.com/mrVVoo/angular-token.git",
   "author": {
     "name": "Markus Wutzler",
@@ -34,7 +34,7 @@
   },
 
   "peerDependencies": {
-    "@angular/common": "^15.0.0",
-    "@angular/core": "^15.0.0"
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0"
   }
 }
