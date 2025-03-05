@@ -8,11 +8,11 @@
     "url": "https://github.com/citizenobserver"
   },
   "contributors": [
-   {
-    "name": "Markus Wutzler",
-    "email": "gh@markus-wutzler.de",
-    "url": "https://github.com/mrvvoo"
-  },
+    {
+      "name": "Markus Wutzler",
+      "email": "gh@markus-wutzler.de",
+      "url": "https://github.com/mrvvoo"
+    },
     {
       "name": "Jan-Philipp Riethmacher",
       "email": "neroniaky@gmail.com",
@@ -35,9 +35,8 @@
     "token authentication"
   ],
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.8.1"
   },
-
   "peerDependencies": {
     "@angular/common": "^19.0.0",
     "@angular/core": "^19.0.0"
