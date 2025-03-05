@@ -1,6 +1,6 @@
 1. Clone the repository
 ```bash
-git clone https://github.com/neroniaky/angular-token.git
+git clone https://github.com/citizenobserver/angular-token.git
 ```
 
 2. Move to the repository

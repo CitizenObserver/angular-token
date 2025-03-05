@@ -1,8 +1,8 @@
-![Angular-Token](https://raw.githubusercontent.com/neroniaky/angular-token/master/docs/angular-token-logo.png)
+![Angular-Token](https://raw.githubusercontent.com/citizenobserver/angular-token/master/docs/angular-token-logo.png)
 
 [![npm version](https://badge.fury.io/js/angular-token.svg)](https://badge.fury.io/js/angular-token)
 [![npm downloads](https://img.shields.io/npm/dt/angular-token.svg)](https://npmjs.org/angular-token)
-[![Build Status](https://travis-ci.org/neroniaky/angular-token.svg?branch=master)](https://travis-ci.org/neroniaky/angular-token)
+[![Build Status](https://travis-ci.org/citizenobserver/angular-token.svg?branch=master)](https://travis-ci.org/citizenobserver/angular-token)
 [![Angular Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://angular.io/styleguide)
 
 🔑 Token based authentication service for Angular with interceptor and multi-user support. Works best with the [devise token auth](https://github.com/lynndylanhurley/devise_token_auth) gem for Rails.
@@ -13,7 +13,7 @@
 
 ### Quick Links
 
-- 🚀 View to demo on [Stackblitz](https://stackblitz.com/github/neroniaky/angular-token)
+- 🚀 View to demo on [Stackblitz](https://stackblitz.com/github/citizenobserver/angular-token)
 - ✨ Learn about it on the [docs site](https://angular-token.gitbook.io/docs)
 - 🔧 Support us by [contributing](https://angular-token.gitbook.io/docs/contribute)
 
@@ -93,8 +93,8 @@ After installing this package, if you get an `Error: inject() must be called fro
 
 ## Contributors
 
-| [<img src="https://avatars3.githubusercontent.com/u/11535793?v=4" width="100px;"/><br /><sub>Jan-Philipp Riethmacher</sub>](https://github.com/neroniaky) | [<img src="https://avatars.githubusercontent.com/u/7848606?v=4" width="100px;"/><br /><sub>Arjen Brandenburgh</sub>](https://github.com/arjenbrandenburgh)
+| [<img src="https://avatars3.githubusercontent.com/u/11535793?v=4" width="100px;"/><br /><sub>Jan-Philipp Riethmacher</sub>](https://github.com/citizenobserver) | [<img src="https://avatars.githubusercontent.com/u/7848606?v=4" width="100px;"/><br /><sub>Arjen Brandenburgh</sub>](https://github.com/arjenbrandenburgh)
 | :---: | :---: |
 
 ### License
-The MIT License (see the [LICENSE](https://github.com/neroniaky/angular-token/blob/master/LICENSE) file for the full text)
+The MIT License (see the [LICENSE](https://github.com/citizenobserver/angular-token/blob/master/LICENSE) file for the full text)

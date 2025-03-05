@@ -138,7 +138,7 @@ export class AngularTokenService  {
 
     if (this.options.apiBase === null) {
       console.warn(`[angular-token] You have not configured 'apiBase', which may result in security issues. ` +
-                   `Please refer to the documentation at https://github.com/neroniaky/angular-token/wiki`);
+                   `Please refer to the documentation at https://github.com/citizenobserver/angular-token/wiki`);
     }
 
     this.tryLoadAuthData();
