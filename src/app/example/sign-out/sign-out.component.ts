@@ -3,7 +3,8 @@ import { AngularTokenService } from '../../../../projects/angular-token/src/publ
 
 @Component({
     selector: 'app-sign-out',
-    templateUrl: 'sign-out.component.html'
+    templateUrl: 'sign-out.component.html',
+    standalone: false
 })
 export class SignOutComponent {
 

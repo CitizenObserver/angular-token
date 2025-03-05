@@ -3,8 +3,9 @@ import { NgForm } from '@angular/forms';
 import { AngularTokenService, SignInData, ApiResponse } from '../../../../projects/angular-token/src/public_api';
 
 @Component({
-  selector: 'app-sign-in',
-  templateUrl: 'sign-in.component.html'
+    selector: 'app-sign-in',
+    templateUrl: 'sign-in.component.html',
+    standalone: false
 })
 export class SignInComponent {
 

@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-restricted',
-  templateUrl: 'restricted.component.html'
+    selector: 'app-restricted',
+    templateUrl: 'restricted.component.html',
+    standalone: false
 })
 export class RestrictedComponent { }

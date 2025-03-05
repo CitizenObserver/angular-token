@@ -2,8 +2,9 @@ import { Component } from '@angular/core';
 import { AngularTokenService } from '../../../../projects/angular-token/src/public_api';
 
 @Component({
-  selector: 'app-validate-token',
-  templateUrl: 'validate-token.component.html'
+    selector: 'app-validate-token',
+    templateUrl: 'validate-token.component.html',
+    standalone: false
 })
 export class ValidateTokenComponent {
 

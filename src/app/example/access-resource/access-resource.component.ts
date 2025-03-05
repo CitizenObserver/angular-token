@@ -3,8 +3,9 @@ import { HttpClient } from '@angular/common/http';
 import { AngularTokenService } from '../../../../projects/angular-token/src/public_api';
 
 @Component({
-  selector: 'app-access-resource',
-  templateUrl: 'access-resource.component.html'
+    selector: 'app-access-resource',
+    templateUrl: 'access-resource.component.html',
+    standalone: false
 })
 export class AccessResourceComponent {
 

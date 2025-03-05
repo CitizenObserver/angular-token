@@ -7,8 +7,9 @@ import {
 } from '../../../../projects/angular-token/src/public_api';
 
 @Component({
-  selector: 'app-register',
-  templateUrl: 'register.component.html'
+    selector: 'app-register',
+    templateUrl: 'register.component.html',
+    standalone: false
 })
 export class RegisterComponent {
 

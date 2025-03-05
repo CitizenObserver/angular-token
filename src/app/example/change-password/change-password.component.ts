@@ -8,8 +8,9 @@ import {
 } from '../../../../projects/angular-token/src/public_api';
 
 @Component({
-  selector: 'app-change-password',
-  templateUrl: 'change-password.component.html'
+    selector: 'app-change-password',
+    templateUrl: 'change-password.component.html',
+    standalone: false
 })
 export class ChangePasswordComponent {
 
