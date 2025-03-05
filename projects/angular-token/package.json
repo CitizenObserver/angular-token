@@ -1,13 +1,18 @@
 {
-  "name": "@mrvvoo/angular-token",
-  "version": "16.0.0-beta.0",
-  "repository": "https://github.com/mrVVoo/angular-token.git",
+  "name": "@citizenobserver/angular-token",
+  "version": "19.0.0",
+  "repository": "https://github.com/citizenobserver/angular-token.git",
   "author": {
-    "name": "Markus Wutzler",
-    "email": "gh@markus-wutzler.de",
-    "url": "https://github.com/mrVVoo"
+    "name": "Citizen Observer",
+    "email": "info@citizenobserver.com",
+    "url": "https://github.com/citizenobserver"
   },
   "contributors": [
+   {
+    "name": "Markus Wutzler",
+    "email": "gh@markus-wutzler.de",
+    "url": "https://github.com/mrvvoo"
+  },
     {
       "name": "Jan-Philipp Riethmacher",
       "email": "neroniaky@gmail.com",
@@ -21,9 +26,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrVVoo/angular-token/issues"
+    "url": "https://github.com/citizenobserver/angular-token/issues"
   },
-  "homepage": "https://github.com/mrVVoo/angular-token#readme",
+  "homepage": "https://github.com/citizenobserver/angular-token#readme",
   "keywords": [
     "angular",
     "devise token auth",
@@ -34,7 +39,7 @@
   },
 
   "peerDependencies": {
-    "@angular/common": "^16.0.0",
-    "@angular/core": "^16.0.0"
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0"
   }
 }
